@@ -16,6 +16,14 @@ npm run build
 
 Nút "Đăng ký" hiện chỉ là neo trong trang. Khi nối thật, chỉ nối vào kênh nhận đăng ký của bạn.
 
+## Đưa lên mạng
+
+Trang này là **trang tĩnh**, không cần máy chủ.
+
+1. Chạy `npm install` (một lần) rồi `npm run build`.
+2. Máy sinh ra thư mục `dist/client` (chỉ gồm html, css, js, ảnh).
+3. Kéo-thả **thư mục `dist/client`** lên Netlify Drop (app.netlify.com/drop), hoặc Vercel, hoặc Cloudflare Pages (Upload assets). Không cần cài thêm công cụ nào.
+
 ## Hướng dẫn và hỗ trợ
 
 Hướng dẫn từng bước và hỗ trợ có trong skill tương ứng trên sàn https://xuongskillai.vercel.app
