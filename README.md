@@ -15,3 +15,11 @@ npm run build
 ```
 
 Nút "Đăng ký" hiện chỉ là neo trong trang. Khi nối thật, chỉ nối vào kênh nhận đăng ký của bạn.
+
+## Hướng dẫn và hỗ trợ
+
+Hướng dẫn từng bước và hỗ trợ có trong skill tương ứng trên sàn https://xuongskillai.vercel.app
+
+## Ảnh và giấy phép
+
+Ảnh nhân vật Sophia Nguyễn là của Xưởng Skill AI, chỉ để minh họa — thay bằng ảnh của bạn. Xem giấy phép trong file `LICENSE`.
